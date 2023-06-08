@@ -1,0 +1,2 @@
+props -> short form for property
+
