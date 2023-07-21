@@ -42,6 +42,7 @@ function App(){
 }
 
 export default App;
+
 //the ref property is used to create a reference to the underlying DOM node of the <textarea> component.
 
 //Output: In this example, we have a button called ACTION, whenever we click on the button the onClickHandler is getting triggered and it's focusing the textarea with help of useRef hook. The focusPoint is the useRef object which is initialised to null and the value is changing to onClick event. Let's see the output of the above code.
